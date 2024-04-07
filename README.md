@@ -1,1 +1,1 @@
-A simple James Bond reaction from the user
+This is a simple program on James Bond where you as the user react with James Bond   
